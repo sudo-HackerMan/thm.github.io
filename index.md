@@ -1,34 +1,14 @@
 ## Сайт канала 'Дневник UNIX'оида' (a.k.a. TheHackerMan)
 Здесь вы можете узнать какие-либо новости, связанные с каналом YT, а также увидеть мои проекты.
 
-### Markdown
+### Контакты
+<b> Эл. почта: </b> highsierra.2007@gmail.com <br>
+(обращайтесь, если у вас есть идея для нового видео, вы хотите предложить что-либо изменить или нашли баг в моих программах.) <br>
+<b> Страница GitHub: </b> https://github.com/sudo-HackerMan
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Канал YT
+Ссылка на канал YT:
+https://www.youtube.com/channel/UCzDZ8_7JEgaoCG8Y3tMAlVg
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sudo-HackerMan/thm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Новости канала:
+<b>21.12.2020.</b> Видеоролики довольно долго не появлялись на канале в связи с разработкой нового проекта. В ближайшее время расписание будет восстановлено. <br>
