@@ -1,8 +1,5 @@
-## Дневник UNIX'оида (a.k.a TheHackerMan)
-
-You can use the [editor on GitHub](https://github.com/sudo-HackerMan/thm.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Сайт канала 'Дневник UNIX'оида' (a.k.a. TheHackerMan)
+Здесь вы можете узнать какие-либо новости, связанные с каналом YT, а также увидеть мои проекты.
 
 ### Markdown
 
