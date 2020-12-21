@@ -4,7 +4,7 @@
 ### Контакты
 <b> Эл. почта: </b> <a href="mailto:highsierra.2007@gmail.com">highsierra.2007@gmail.com</a> <br>
 (обращайтесь, если у вас есть идея для нового видео, вы хотите предложить что-либо изменить или нашли баг в моих программах.) <br>
-<b> Страница GitHub: </b> <a href="https://github.com/sudo-HackerMan">https://github.com/sudo-HackerMan</a>
+<b> Страница GitHub: </b> <a href="https://github.com/sudo-HackerMan" target="_blank">https://github.com/sudo-HackerMan</a>
 
 ### Канал YT
 Ссылка на канал YT:
@@ -15,7 +15,7 @@ https://www.youtube.com/channel/UCzDZ8_7JEgaoCG8Y3tMAlVg
 
 #### Страница с задачами к плейлисту 'Основы Python 3.x'
 Итоговыми задачи по программированию из плейлиста 'Основы Python 3.x' (задачи будут выложены после окончания блока базового синтаксиса, потом после окончания алгоритмов и структур и данных и т.д.). Туда также дублируются домашние задания с уроков.
-<a href="python3tasks">Перейти на проект</a>
+<a href="python3tasks" target="_blank">Перейти на проект</a>
 
 #### Дополнительные материалы к плейлисту 'Записки хакера'
 <a href="https://drive.google.com/drive/folders/111pKQroEQTjDOYMNxFgo1sa_aIoa_TOo" target="_blank">Папка Google Диска</a>
