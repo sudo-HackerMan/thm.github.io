@@ -2,9 +2,9 @@
 Здесь вы можете узнать какие-либо новости, связанные с каналом YT, а также увидеть мои проекты.
 
 ### Контакты
-<b> Эл. почта: </b> highsierra.2007@gmail.com <br>
+<b> Эл. почта: </b> <a href="mailto:highsierra.2007@gmail.com">highsierra.2007@gmail.com</a> <br>
 (обращайтесь, если у вас есть идея для нового видео, вы хотите предложить что-либо изменить или нашли баг в моих программах.) <br>
-<b> Страница GitHub: </b> https://github.com/sudo-HackerMan
+<b> Страница GitHub: </b> <a href="https://github.com/sudo-HackerMan">https://github.com/sudo-HackerMan</a>
 
 ### Канал YT
 Ссылка на канал YT:
