@@ -8,7 +8,7 @@
 
 ### Канал YT
 Ссылка на канал YT:
-https://www.youtube.com/channel/UCzDZ8_7JEgaoCG8Y3tMAlVg
+<a href="https://www.youtube.com/channel/UCzDZ8_7JEgaoCG8Y3tMAlVg"https://www.youtube.com/channel/UCzDZ8_7JEgaoCG8Y3tMAlVg</a>
 
 #### Новости канала:
 <b>9.03.2021.</b> Задачи к блоку 1 "Основы Python 3.x." выложены на <a href="python3tasks" target="_blank">странице</a>
