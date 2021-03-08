@@ -1,7 +1,8 @@
 ## Задачи по программированию, плейлист 'Основы Python 3.x'
 
 ### Блок 'Базовый синтаксис языка'
-<a href="https://github.com/sudo-HackerMan/thm.github.io/blob/gh-pages/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%BA%20%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%201.pdf">Задачи</a>
+<a href="https://github.com/sudo-HackerMan/thm.github.io/blob/gh-pages/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%BA%20%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%201.pdf">Задачи (GitHub)</a> <br>
+<a href="https://disk.yandex.ru/i/fM-f0nzwtLZHUA">Задачи (Я.Диск)</a>
 
 ### Блок 'Алгоритмы и структуры данных'
 (Задания будут доступны после окончания блока в плейлисте)
