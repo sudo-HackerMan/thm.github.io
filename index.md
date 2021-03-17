@@ -11,6 +11,7 @@
 <a href="https://www.youtube.com/channel/UCzDZ8_7JEgaoCG8Y3tMAlVg">https://www.youtube.com/channel/UCzDZ8_7JEgaoCG8Y3tMAlVg</a>
 
 #### Новости канала:
+<b>18.03.2021.</b> Доступен разбор задач к блоку 1 "Основы Python 3.x", <a href="python3tasks" target="_blank">см. здесь</a> <br><br>
 <b>9.03.2021.</b> Задачи к блоку 1 "Основы Python 3.x." выложены на <a href="python3tasks" target="_blank">странице</a> <br><br>
 <b>28.01.2021.</b> Поздравляю, нас уже 50!. <br><br>
 <b>27.01.2021.</b> До завершения первого блока плейлиста 'Основы Python 3.x' осталось два видео: чтение/запись в файл и обработка исключений. Сразу после выхода последнего видео будут опубликованы задачи. <br><br>
